@@ -48,6 +48,9 @@
 .navigation a {
   display: inline-block;
   padding: 20px 180px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #000;
 }
 
 .navigation a:hover,
